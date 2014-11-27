@@ -24,7 +24,7 @@ import javax.servlet.http.HttpSession;
 
 /**
  *
- * @author Mario
+ * @author Mario TJ
  */
 @ManagedBean(name = "addPost", eager=true)
 @RequestScoped
